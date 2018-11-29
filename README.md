@@ -9,3 +9,5 @@ Once, you have finished going through all the steps, try to improve the test acc
 - using different activation function in the hidden layers
 - increase number of layers (?)
 - add regularizers (see Keras documentation)
+
+Were you able to improve the test accuracy of the network? Show your result to the lab instructor.
